@@ -8,13 +8,14 @@ The project can be viewed here:
 https://github.com/sadswamppuppy/ksanderson_week1.git
 
 To run this app:
--Clone the repository above
--Navigate into the project folder
--Run the file using F5 or the 'Run' 
+1. Clone the repository above (https://github.com/sadswamppuppy/ksanderson_week1.git)
+2. Navigate into the project folder
+3. Run the file using F5 or the 'Run' 
 button at the top of Visual Studio
+4. The proper web page should pull up as the final step
 
 Dependencies: 
--.NET 8 (or the latest installed version)
--ASP.NET Core MVC
+1: .NET 8 (or the latest installed version)
+2: ASP.NET Core MVC
 
-![Screenshot of Application Functioning](C:\Users\kasey\source\repos\ksanderson_week1\screenshot.png)
+![Screenshot of Application Functioning](screenshot.png)
