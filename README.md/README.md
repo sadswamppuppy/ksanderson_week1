@@ -18,4 +18,4 @@ Dependencies:
 1: .NET 8 (or the latest installed version)
 2: ASP.NET Core MVC
 
-![Screenshot of Application Functioning](README.md/screenshot.png)
+![Screenshot of Application Functioning](screenshot.png)
