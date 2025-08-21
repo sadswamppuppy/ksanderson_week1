@@ -1,5 +1,4 @@
-Kasey Sanderson - SPC ID 2506815
-Assignment Week 1 - COP 2839
+Kasey Sanderson - COP 2839
 
 This is an MVC application that displays
 a list of prodcuts and their prices. It also
